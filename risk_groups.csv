@@ -1,0 +1,7 @@
+Cohort,Condition,N,Diabetes %
+Elderly,age >= 60,0,0.0
+Overweight,BMI >= 30,0,0.0
+Hypertension,hypertension == 1,7461,27.96
+Heart Disease,heart_disease == 1,3923,32.3
+High Glucose,blood_glucose_level >= 180,0,0.0
+Smokers,"smoking_history in {current, ever, former}",0,0.0
